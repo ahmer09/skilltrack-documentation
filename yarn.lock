@@ -2880,6 +2880,29 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@skilltrack/documentation@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@skilltrack/documentation@workspace:."
+  dependencies:
+    "@docusaurus/core": ^2.0.0-beta.18
+    "@docusaurus/module-type-aliases": ^2.0.0-beta.18
+    "@docusaurus/preset-classic": ^2.0.0-beta.18
+    "@mdx-js/react": ^1.6.21
+    "@tsconfig/docusaurus": ^1.0.4
+    algoliasearch-helper: ^3.7.4
+    clsx: ^1.1.1
+    docusaurus-plugin-sass: ^0.2.2
+    graphiql: ^1.5.1
+    graphql: ^15.7.2
+    prism-react-renderer: ^1.2.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-transition-group: ^4.4.2
+    sass: ^1.49.8
+    typescript: ^4.5.5
+  languageName: unknown
+  linkType: soft
+
 "@slorber/static-site-generator-webpack-plugin@npm:^4.0.4":
   version: 4.0.4
   resolution: "@slorber/static-site-generator-webpack-plugin@npm:4.0.4"
@@ -5522,29 +5545,6 @@ __metadata:
   checksum: 80130b665379ecd991687ae079fbee25d091e03e4c4cef41e7643b977849ac48c2f56bfcb3727e53594d29029b833749811110d9f3fbee1b26a6e6f8096a5cef
   languageName: node
   linkType: hard
-
-"docs@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "docs@workspace:."
-  dependencies:
-    "@docusaurus/core": ^2.0.0-beta.18
-    "@docusaurus/module-type-aliases": ^2.0.0-beta.18
-    "@docusaurus/preset-classic": ^2.0.0-beta.18
-    "@mdx-js/react": ^1.6.21
-    "@tsconfig/docusaurus": ^1.0.4
-    algoliasearch-helper: ^3.7.4
-    clsx: ^1.1.1
-    docusaurus-plugin-sass: ^0.2.2
-    graphiql: ^1.5.1
-    graphql: ^15.7.2
-    prism-react-renderer: ^1.2.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-transition-group: ^4.4.2
-    sass: ^1.49.8
-    typescript: ^4.5.5
-  languageName: unknown
-  linkType: soft
 
 "docusaurus-plugin-sass@npm:^0.2.2":
   version: 0.2.2
