@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Skilltrack',
-  tagline: 'build your skill experience',
+  tagline: 'a home for your skills',
   url: 'https://skilltrack.ai',
   baseUrl: '/',
   trailingSlash: true,
