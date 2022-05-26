@@ -61,7 +61,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Skilltrack Logo',
-          src: '/docs/img/logo.png',
+          src: '/img/logo.png',
           href: '/'
         },
         items: [
